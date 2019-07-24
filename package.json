@@ -1,5 +1,5 @@
 {
-  "name": "react-codemirror2",
+  "name": "@hypnosphi/react-codemirror2",
   "version": "6.0.0",
   "description": "a tiny react codemirror component wrapper",
   "main": "index.js",
